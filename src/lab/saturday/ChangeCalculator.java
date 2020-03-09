@@ -26,6 +26,7 @@ public class ChangeCalculator {
 		System.out.println("Please enter the total price: ");
 		Scanner sc = new Scanner(System.in);
 		price=sc.nextInt();
+		System.out.println("Test");
 		
 		
 		
